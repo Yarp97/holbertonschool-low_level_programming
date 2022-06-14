@@ -1,1 +1,1 @@
-primer proyecto con lenguaje 
+primer proyecto con lenguaje C
