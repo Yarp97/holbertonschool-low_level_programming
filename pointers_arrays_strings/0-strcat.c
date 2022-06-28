@@ -18,7 +18,7 @@ for (posicion1 = '0'; dest[posicion1] != 0; posicion1++)
 {
 for (posicion2 = '0'; src[posicion2] != 0; posicion2++)
 {
-dest[posicion1 + posicion2] = src[posicion1];
+dest[posicion1 + posicion2] = src[posicion2];
 dest[posicion1 + posicion2] = '\0';
 }
 }
